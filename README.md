@@ -1,5 +1,6 @@
 #Big Data Processin. Project 1
 The goal of this of this project is to process 18 millions tweets about Olympic games.
+The project is made on the base of Apache Hadoop
 
 ##Analysis
 The first part on the project is aimed to create a Histogram plot that depicts the distribution of sizes (measured in number of characters) among the Twitter dataset.
